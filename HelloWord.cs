@@ -15,5 +15,6 @@ public class HelloWord : MonoBehaviour
     void Update()
     {
         print("DinoDinoDinoDinoCarCarCarEsElMejorXd");
+        print("No te lo creas tanto");
     }
 }
